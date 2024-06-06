@@ -32,6 +32,7 @@ If you have an MX keycap set you really want to use with the Voyager, now you ca
     <caption>The Voyager with DSA Nature Witch keycaps</caption>
 </image>
 <br>
+<br>  
 
 Printed on the Bambu Labs X1C with mostly default, 0.2mm layer height settings. The tolerances are meant to be fairly tight, so I suggest printing a couple of test adapters to make sure the design works with your printer first. 
 
