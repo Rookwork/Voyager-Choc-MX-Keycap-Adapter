@@ -9,7 +9,7 @@ A small 3D-printable adapter to use MX keycaps on Choc switches. I tried out thi
 If you have an MX keycap set you really want to use with the Voyager, now you can! Here are a few examples:
 
 <image>
-    <img src="/_readme-assets/adapters-installed.jpeg"
+    <img src="/_readme-assets/adapters-installed.jpeg" width="300"
          alt="Adapters installed with no keycaps">
     <caption>A bare Voyager with just the adapters</caption>
 </image>
@@ -32,7 +32,6 @@ If you have an MX keycap set you really want to use with the Voyager, now you ca
     <caption>The Voyager with DSA Nature Witch keycaps</caption>
 </image>
 
-![So many keycap options](/_readme-assets/keycaps-installed.jpg)
 
 Printed on the Bambu Labs X1C with mostly default, 0.2mm layer height settings. The tolerances are meant to be fairly tight, so I suggest printing a couple of test adapters to make sure the design works with your printer first. 
 
