@@ -2,7 +2,35 @@
 
 ![Adapter](/_readme-assets/adapter.png)
 
-A small 3D-printable adapter to use MX keycaps on Choc switches. I tried out this [Choc-MX Direct Adapter](https://www.thingiverse.com/thing:4134048) by DodgerX, and I liked it, but I decided to rebuild it and put a little ZSA-Voyager spin on the design. You can use the tips of the paper airplane to help install and remove the adapters. If you have an MX keycap set you really want to use with the Voyager, now you can!
+A small 3D-printable adapter to use MX keycaps on Choc switches. I tried out this [Choc-MX Direct Adapter](https://www.thingiverse.com/thing:4134048) by DodgerX, and I liked it, but I decided to rebuild it and put a little ZSA-Voyager spin on the design. You can use the tips of the paper airplane to help install and remove the adapters. 
+
+![Remove the adapter](/_readme-assets/remove-adapter-keycap.jpeg)
+
+If you have an MX keycap set you really want to use with the Voyager, now you can! Here are a few examples:
+
+<image>
+    <img src="/_readme-assets/adapters-installed.jpeg"
+         alt="Adapters installed with no keycaps">
+    <caption>A bare Voyager with just the adapters</caption>
+</image>
+
+<image>
+    <img src="/_readme-assets/mikeshake.jpeg"
+         alt="The Voyager with DSA Milkshake keycaps installed">
+    <caption>The Voyager with DSA Milkeshake keycaps</caption>
+</image>
+
+<image>
+    <img src="/_readme-assets/astrolokeys.jpeg"
+         alt="The Voyager with Astrolokeys keycaps installed">
+    <caption>The Voyager with Astrolokeys keycaps</caption>
+</image>
+
+<image>
+    <img src="/_readme-assets/nature-witch.jpeg"
+         alt="The Voyager with DSA Nature Witch keycaps installed">
+    <caption>The Voyager with DSA Nature Witch keycaps</caption>
+</image>
 
 ![So many keycap options](/_readme-assets/keycaps-installed.jpg)
 
@@ -17,6 +45,4 @@ Use tree supports with 0.22mm gap for relatively easy removal.
 Enjoy! 
 
 ---
-Please note I'm providing this design for free with no promise of warranty or support. 
-
-Please also note this is not an official ZSA accessory. ZSA can't provide support or warranty assistance for anything related to this design. 
+Please note I'm providing this design for free with no promise of warranty or support. This is not an official ZSA accessory. ZSA can't provide support or warranty assistance for anything related to this design. 
