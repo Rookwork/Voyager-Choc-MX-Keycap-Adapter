@@ -15,9 +15,9 @@ If you have an MX keycap set you really want to use with the Voyager, now you ca
 </image>
 
 <image>
-    <img src="/_readme-assets/mikeshake.jpeg" width="400"
+    <img src="/_readme-assets/milkshake.jpeg" width="400"
          alt="The Voyager with DSA Milkshake keycaps installed">
-    <caption>The Voyager with DSA Milkeshake keycaps</caption>
+    <caption>The Voyager with DSA Milkshake keycaps</caption>
 </image>
 
 <image>
