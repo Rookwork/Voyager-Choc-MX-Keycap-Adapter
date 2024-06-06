@@ -9,25 +9,25 @@ A small 3D-printable adapter to use MX keycaps on Choc switches. I tried out thi
 If you have an MX keycap set you really want to use with the Voyager, now you can! Here are a few examples:
 
 <image>
-    <img src="/_readme-assets/adapters-installed.jpeg" width="300"
+    <img src="/_readme-assets/adapters-installed.jpeg" width="400"
          alt="Adapters installed with no keycaps">
     <caption>A bare Voyager with just the adapters</caption>
 </image>
 
 <image>
-    <img src="/_readme-assets/mikeshake.jpeg"
+    <img src="/_readme-assets/mikeshake.jpeg" width="400"
          alt="The Voyager with DSA Milkshake keycaps installed">
     <caption>The Voyager with DSA Milkeshake keycaps</caption>
 </image>
 
 <image>
-    <img src="/_readme-assets/astrolokeys.jpeg"
+    <img src="/_readme-assets/astrolokeys.jpeg" width="400"
          alt="The Voyager with Astrolokeys keycaps installed">
     <caption>The Voyager with Astrolokeys keycaps</caption>
 </image>
 
 <image>
-    <img src="/_readme-assets/nature-witch.jpeg"
+    <img src="/_readme-assets/nature-witch.jpeg" width="400"
          alt="The Voyager with DSA Nature Witch keycaps installed">
     <caption>The Voyager with DSA Nature Witch keycaps</caption>
 </image>
